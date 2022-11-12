@@ -1,0 +1,1 @@
+Juego azul en prolog.
